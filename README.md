@@ -11,19 +11,32 @@ The selected body joints were the lower body joints due to their importance comp
 
 ### Folder Structure
 	CSV
-  •	*.csv
+ 
+     o	*.csv
+
 	Rotations
-  •	Training
-    o	*.amc
-  •	Testing
-    o	*.amc
+ 
+   •	Training
+     
+     o	*.amc
+
+   •	Testing
+   
+     o	*.amc
+
 	XYZ
-  •	Training
+  
+   •	Training
+  
     o	*.csv
-  •	Testing
+  
+   •	Testing
+  
     o	*.csv
+
 	XYZ_Analysis
-  •	*.png
+ 
+     o	*.png
 
 ### Encode classes in the file names 
 SubjectNumber_TrialNumber_MotionCategory
