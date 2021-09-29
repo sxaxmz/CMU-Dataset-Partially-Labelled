@@ -9,6 +9,25 @@ The body contains in total of 31 joints, each represented in XYZ coordinates sum
 
 The selected body joints were the lower body joints due to their importance compared with the other joints. The selected lower body joints were the ‘lfeumer’ joint, ‘lfoot’, ‘rfeumer’ joint, and ‘rfoot’ joint. The total number of features including the XYZ coordinate for each is 12 joints' features.
 
+### Folder Structure
+	CSV
+  •	*.csv
+	Rotations
+  •	Training
+    o	*.amc
+  •	Testing
+    o	*.amc
+	XYZ
+  •	Training
+    o	*.csv
+  •	Testing
+    o	*.csv
+	XYZ_Analysis
+  •	*.png
+
+### Encode classes in the file names 
+SubjectNumber_TrialNumber_MotionCategory
+
 [Read The Research Here!](https://www.researchgate.net/project/Recurrent-Neural-Network-Applied-to-Motion-Captured-Data)
 
 [The Labelled Dataset Can Be Found Here!](https://drive.google.com/drive/folders/1op6_PMW6MrZphXTH72eueH6SA9wg4cOB)
